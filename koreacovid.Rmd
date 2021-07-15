@@ -102,3 +102,5 @@ This data table shows that the exact test count data males, are 2.3 times likely
 
 ## Conclusions
 
+Our null hypothesis indicated that COVID related deaths were independent to sex. We started off with a bar chart to show us the percentages od deaths. Then we resulted that 64% males made up the deaths and 36% females made up the rest of the deaths. We then compared and came to the conclusion that males are more likely to die from COVID at a much higher rate than females by the numbers that were shown from the table.  
+
