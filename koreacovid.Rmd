@@ -88,6 +88,15 @@ Our results show us that out of the 100, males make up the 64% percent of COVID 
 
 ## Inferential results 
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
+
+
+This data table shows that the exact test count data males, are 2.3 times likely to die from COVID than females. Our P- Value is a small number which then allows us to reject the null hypothesis. COVID deaths are independent when it comes down to weather you are male or female.  
+
 
 
 
